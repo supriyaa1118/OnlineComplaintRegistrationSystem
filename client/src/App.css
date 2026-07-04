@@ -1,0 +1,29 @@
+body {
+  background: #f5f7fa;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-size: 24px;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+.form-control,
+.form-select {
+  border-radius: 8px;
+}
